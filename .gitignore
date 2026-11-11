@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 .env
+week00-setup/chat.json
+week00-setup/chat_v2.json
